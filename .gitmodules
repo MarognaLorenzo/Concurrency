@@ -4,3 +4,6 @@
 [submodule "delta-stepping-lorenzo-luka"]
 	path = delta-stepping-lorenzo-luka
 	url = https://github.com/uu-b3cc/delta-stepping-lorenzo-luka.git
+[submodule "quickhull-lorenzo-luka-1"]
+	path = quickhull-lorenzo-luka-1
+	url = https://github.com/uu-b3cc/quickhull-lorenzo-luka-1
